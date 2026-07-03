@@ -52,22 +52,22 @@ export const sites = [
       },
   //个人其他站点      
       {
-      id: 'zywede',
-      title: 'zywe.de',
-      description: '个人主页与知识集散地。作为技术爱好者，展示自己的全部项目、实践与分享的中心',
-      shortDesc: 'zywe个人官网',
-      url: 'https://zywe.de/',
-      category: 'Studying',
-      icon: '/icons/zywede.png',
+        id: 'bilibili',
+        title: '哔哩哔哩 (B站)',
+        description: '国内知名的视频社区，我的追番、学习和娱乐主阵地。',
+        shortDesc: '我的B站主页',
+        url: 'https://space.bilibili.com/', // 你可以把这里的链接换成你自己的B站空间地址
+        category: '娱乐学习',
+        icon: '/icons/bilibili.svg', // 你可以把图标文件换成B站的图标
       },
       {
-      id: 'dh_zywede',
-      title: 'nav.zywe.de',
-      description: '专属导航页,这里汇聚了日常学习、开发与管理服务器所需的所有高效工具与资源链接，快速触达各项在线服务的便捷入口，确保学习与实践的流畅性。',
-      shortDesc: '让每个人都有自己的网站式收藏夹',
-      url: 'https://dh.zywe.de/',
-      category: 'Studying',
-      icon: '/icons/dh-zywede.png',
+        id: 'bilibili-hot',
+        title: 'B站热门',
+        description: '看看今天B站有什么热门视频和有意思的UP主。',
+        shortDesc: 'B站热门推荐',
+        url: 'https://www.bilibili.com/v/popular/',
+        category: '娱乐学习',
+        icon: '/icons/bilibili.svg',
       },
       // pages      
       {

@@ -57,7 +57,7 @@ export const sites = [
         description: '国内知名的视频社区，我的追番、学习和娱乐主阵地。',
         shortDesc: '我的B站主页',
         url: 'https://space.bilibili.com/', // 你可以把这里的链接换成你自己的B站空间地址
-        category: '娱乐学习',
+        category: 'pages',
         icon: '/icons/bilibili.svg', // 你可以把图标文件换成B站的图标
       },
       {
@@ -66,7 +66,7 @@ export const sites = [
         description: '看看今天B站有什么热门视频和有意思的UP主。',
         shortDesc: 'B站热门推荐',
         url: 'https://www.bilibili.com/v/popular/',
-        category: '娱乐学习',
+        category: 'pages',
         icon: '/icons/bilibili.svg',
       },
       // pages      
